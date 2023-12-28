@@ -14,7 +14,7 @@ public class CharSum {
 		            //아스키 코드 문자열과 숫자의 차이는 48또는 '0'이므로 이를 빼준다
 		        }
 		        System.out.println(sum);
-		        System.out.println(sum);
+		        System.out.println(sum); //추가 내용 
 
 		    
 
